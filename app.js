@@ -64,9 +64,7 @@ function getJson() {
             data.forEach(user => {
                 output += `<li>ID:${user.id} Name: ${user.name} Company: ${user.company} Phone: ${user.phone}</li>`
             });
-
             document.getElementById('output').innerHTML = output;
-
         })
         .catch(error => console.log(error));
 }
