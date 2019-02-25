@@ -1,0 +1,12 @@
+{
+  "name": "JS_FETCH_API",
+  "homepage": "https://volosgoto.github.io/JS_FETCH_API/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/volosgoto/JS_FETCH_API.git",
+  "author": "andrey <volosgoto@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
